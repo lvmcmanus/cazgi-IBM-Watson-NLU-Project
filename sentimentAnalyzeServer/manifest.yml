@@ -1,7 +1,7 @@
 ---
 applications:
 - path: .
-  name: Nya.1002 #change to be unique in IBM Cloud
+  name: Nya*1002 #change to be unique in IBM Cloud
   buildpack: sdk-for-nodejs
   memory: 256M
   instances: 1
